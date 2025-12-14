@@ -4,7 +4,9 @@ draft: false
 tags:
   - "#agentic"
 ---
-# Sunday, December 14, 2025
+# Expanding my Skillset
+
+**Sunday, December 14, 2025**
 
 Part of my skillset expansion over the next couple of years is going to be learning how to code along with AI, in a way that it augments my ability to code, rather than replacing it entirely.
 

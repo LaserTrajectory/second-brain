@@ -1,5 +1,6 @@
 ---
 title: Example Title
 draft: false
-tags:
+tags: 
+created: "{{date: dddd, MMMM DD, YYYY}}"
 ---

@@ -4,7 +4,7 @@ draft: false
 tags:
   - "#econ"
 ---
-# Sunday, December 14, 2025
+**Sunday, December 14, 2025**
 
 This note contains my thoughts and curiosities surrounding monetary policy, which is a field that I find interesting, despite my relative lack of familiarity with it.
 

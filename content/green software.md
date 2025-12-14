@@ -5,7 +5,7 @@ tags:
   - "#green"
   - "#agentic"
 ---
-# Sunday, December 14, 2025
+**Sunday, December 14, 2025**
 
 I'd like to capture some thoughts I have around the idea of green software, which is a relatively new term for me at this stage. But it definitely is something to think about with respect to my [[thesis]], primarily because outsized environmental impact is one of the primary arguments against the kinds of [[Dynamic Policy Feedback Loops]] I would argue for.
 
