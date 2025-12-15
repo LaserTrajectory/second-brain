@@ -12,3 +12,6 @@ This note is going to serve as **the central point** for all of my ideation, exp
 - Sunday, December 14, 2025 
 	- I'm going to begin toying around with the idea of [[Dynamic Policy Feedback Loops]]. This may hopefully form a core idea in my thesis.
 
+# Policy Fields of Interest
+
+Some of the work that my thesis will cover should cut across various aspects of economics, such as [[development economics]], which should serve as a foundation – I should aim to figure out the specific policy fields that I would aim to target with the types of systems I build/discuss in my thesis.
