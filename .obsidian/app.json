@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "private/Attachments",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "quartz/",
+    "docs/",
+    "public/",
+    ".quartz-cache/"
+  ]
+}
